@@ -1,0 +1,4 @@
+.venv/
+tests/__pycache__/
+volfit/__pycache__/
+.pytest_cache/

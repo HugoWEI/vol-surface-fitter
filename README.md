@@ -1,2 +1,3 @@
-# vol-surface-fitter
-Fit arbitrage‑free implied vol surface via SVI; supply SABR seed; validate greeks.
+# Vol Surface Fitter
+
+WIP: implementation of different vol surface fitters.
